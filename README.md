@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/wilso663/drum-kit-challenge](https://github.com/wilso663/drum-kit-challenge)
-- Live Site URL: [https://festive-payne-1cd204.netlify.app/](https://festive-payne-1cd204.netlify.app/)
+- Live Site URL: [https://festive-ride-812509.netlify.app/](https://festive-ride-812509.netlify.app/)
 
 ## My process
 
